@@ -3,12 +3,12 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "nummath"
-version = "0.0.1"
+name = "package name"
+version = "version number"
 authors = [
-  {name = "jay"},
+  {name = "your name"},
 ]
-description = "A custom math library"
+description = "your description"
 requires-python = ">=3.7"
-license = {text = "BSD-3-Clause"}
-keywords = ["math", "calculator", "equation"]
+license = {text = "your license"}
+keywords = ["keyword", "keyword2", "keyword3"]
